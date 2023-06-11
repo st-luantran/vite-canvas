@@ -15,8 +15,6 @@
     "danger-local": "danger pr"
   },
   "dependencies": {
-    "@shopify/app-bridge-react": "^3.7.7",
-    "@shopify/polaris": "^11.1.2",
     "@types/redux-logger": "^3.0.9",
     "@vitejs/plugin-react": "^4.0.0",
     "axios": "^1.4.0",

@@ -1,10 +1,8 @@
-import { AppBridgeProvider } from '../components/Providers'
-
 const IndexPage = () => {
   return (
-    <AppBridgeProvider>
+    <div>
       <div>About</div>
-    </AppBridgeProvider>
+    </div>
   )
 }
 
